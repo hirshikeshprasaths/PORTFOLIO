@@ -2,6 +2,8 @@
 
 A high-fidelity, glassmorphism-designed portfolio website for a professional video editing and post-production studio. Built with React, TypeScript, Tailwind CSS, and Vite.
 
+**Live Repository:** https://github.com/hirshikeshprasaths/PORTFOLIO
+
 ## Features
 
 ✨ **Glassmorphism Design** - Translucent frosted glass cards with frosted glass effect
@@ -44,7 +46,10 @@ src/
 # Install dependencies
 npm install
 
-# Start development server
+# Start development server (Windows)
+.\run-dev.bat
+
+# Or use npm directly
 npm run dev
 
 # Build for production
@@ -65,10 +70,12 @@ npm run preview
 
 ### Glassmorphism Components
 All glass-style cards use:
-- Semi-transparent background (rgba with 8-12% opacity)
-- Backdrop blur effect (12px)
-- Subtle white borders (20% opacity)
-- Soft drop shadows with 0.3 opacity
+- Semi-transparent background (rgba with 6% opacity)
+- Enhanced backdrop blur effect (20px with saturation)
+- Subtle white borders (18% opacity)
+- Multi-layer shadows for depth
+- Shimmer animation on hover
+- Neon glow effects
 
 ### Typography
 - Font Family: Segoe UI, Roboto, sans-serif
@@ -102,12 +109,18 @@ All glass-style cards use:
 
 ### About Section
 - Company information
-- Key statistics (500+ videos, 50+ awards, 100+ clients, 12+ years)
+- Key statistics (2,500+ projects, 32 awards, 500+ clients, 14 years)
 - Three value propositions
 - Responsive grid layout
 
+### Testimonials
+- 4 professional client testimonials
+- 5-star ratings from Netflix, Universal, Tesla, Sundance
+- Trusted by industry leaders section
+
 ### Contact Section
 - Contact information cards (email, phone, location)
+- Your Details: 24ec031@psr.edu.in | +91 9363869747 | Chennai, Tamil Nadu
 - Contact form with validation
 - Social media links
 - Glassmorphism styling throughout
@@ -136,14 +149,20 @@ To customize the portfolio:
 
 ## License
 
-© 2025 Build Me Post-Production. All rights reserved.
+MIT License - feel free to use this template for your portfolio!
 
 ## Contact
 
-- Email: hello@buildme.com
-- Phone: +1 (555) 123-4567
-- Location: Los Angeles, CA
+Build Me Post-Production
+- Email: 24ec031@psr.edu.in
+- Phone: +91 9363869747
+- Location: Chennai, Tamil Nadu
+- GitHub: https://github.com/hirshikeshprasaths/PORTFOLIO
 
 ---
+
+⭐ **Star this repo if you found it helpful!**
+
+Built with 💙 for creative professionals.
 
 Built with ❤️ for creative professionals.
